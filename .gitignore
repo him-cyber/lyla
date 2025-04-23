@@ -1,0 +1,6 @@
+*.mp3
+__pycache__/
+*.pyc
+lyla_context.json
+.lyla_voice
+.env

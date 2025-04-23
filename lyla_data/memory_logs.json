@@ -1,0 +1,129 @@
+[
+  {
+    "timestamp": null,
+    "user_input": "No internet today, but still logging.",
+    "lyla_response": "",
+    "mood": "focused",
+    "tags": [
+      "offline",
+      "solo"
+    ],
+    "context": {
+      "weather": null,
+      "last_action": null,
+      "role": null,
+      "mode": null
+    },
+    "metadata": {
+      "vibe_rating": null,
+      "session_id": null,
+      "user_notes": null,
+      "emotion_graph": {}
+    }
+  },
+  {
+    "timestamp": null,
+    "user_input": "Test message 0",
+    "lyla_response": "",
+    "mood": "",
+    "tags": [
+      "test"
+    ],
+    "context": {
+      "weather": null,
+      "last_action": null,
+      "role": null,
+      "mode": null
+    },
+    "metadata": {
+      "vibe_rating": null,
+      "session_id": null,
+      "user_notes": null,
+      "emotion_graph": {}
+    }
+  },
+  {
+    "timestamp": null,
+    "user_input": "Test message 1",
+    "lyla_response": "",
+    "mood": "",
+    "tags": [
+      "test"
+    ],
+    "context": {
+      "weather": null,
+      "last_action": null,
+      "role": null,
+      "mode": null
+    },
+    "metadata": {
+      "vibe_rating": null,
+      "session_id": null,
+      "user_notes": null,
+      "emotion_graph": {}
+    }
+  },
+  {
+    "timestamp": null,
+    "user_input": "Test message 2",
+    "lyla_response": "",
+    "mood": "",
+    "tags": [
+      "test"
+    ],
+    "context": {
+      "weather": null,
+      "last_action": null,
+      "role": null,
+      "mode": null
+    },
+    "metadata": {
+      "vibe_rating": null,
+      "session_id": null,
+      "user_notes": null,
+      "emotion_graph": {}
+    }
+  },
+  {
+    "timestamp": null,
+    "user_input": "Test message 3",
+    "lyla_response": "",
+    "mood": "",
+    "tags": [
+      "test"
+    ],
+    "context": {
+      "weather": null,
+      "last_action": null,
+      "role": null,
+      "mode": null
+    },
+    "metadata": {
+      "vibe_rating": null,
+      "session_id": null,
+      "user_notes": null,
+      "emotion_graph": {}
+    }
+  },
+  {
+    "timestamp": null,
+    "user_input": "Test message 4",
+    "lyla_response": "",
+    "mood": "",
+    "tags": [
+      "test"
+    ],
+    "context": {
+      "weather": null,
+      "last_action": null,
+      "role": null,
+      "mode": null
+    },
+    "metadata": {
+      "vibe_rating": null,
+      "session_id": null,
+      "user_notes": null,
+      "emotion_graph": {}
+    }
+  }
+]
