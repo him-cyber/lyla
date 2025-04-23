@@ -25,7 +25,7 @@ Lyla isn’t just smart — she listens, remembers, and speaks gently, making te
 git clone https://github.com/him-cyber/lyla.git
 cd lyla
 
-### 2. Set up environment variables
+## 2. Set up environment variables
 
 Create a `.env` file or add the following to your `~/.bashrc` or `~/.zshrc`:
 
@@ -34,17 +34,17 @@ export OPENAI_API_KEY=your_openai_key
 export ELEVEN_API_KEY=your_elevenlabs_key
 export LYLA_MEMORY_BACKEND='mongo'  # or 'json'
 
-### 3. Install dependencies
+## 3. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 
-### 4. Run Lyla
+## 4. Run Lyla
 
 ```bash
 python3 lyla.py "your message here"
 
-### 💬 Examples
+## 💬 Examples
 
 ```bash
 python3 lyla.py "I’m feeling a little overwhelmed today"
